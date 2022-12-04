@@ -137,4 +137,4 @@ void Show2DArray(int[,] array)
      }  
 }
 
-Show2DArray(Create2DRandomArray(1, 9, 5, 5));
+Show2DArray(Create2DRandomArray(1, 9, 7, 7));
